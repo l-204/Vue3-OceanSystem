@@ -9,7 +9,7 @@ import Layout from '@/layout/index.vue';
 <template>
     <Layout>
         <a-layout-header style="background: #fff; padding: 0 32px;text-align: center;">
-            第九组：李浩锐（组长），李文昊，黄键汶，唐伟其
+            <!-- 第九组：李浩锐（组长），李文昊，黄键汶，唐伟其 -->
         </a-layout-header>
         <div class="timeline-container">
 
@@ -54,7 +54,7 @@ import Layout from '@/layout/index.vue';
                     </a-timeline-item>
                 </a-timeline>
             </div>
-            <div class="timeline-right">
+            <!-- <div class="timeline-right">
                 <h3 style="text-align: center;">小组分工</h3>
                 <a-timeline mode="alternate">
                     <a-timeline-item color="">
@@ -82,7 +82,7 @@ import Layout from '@/layout/index.vue';
                         唐伟其：个人中心页，系统设置页，报告撰写
                     </a-timeline-item>
                 </a-timeline>
-            </div>
+            </div> -->
         </div>
     </Layout>
 </template>
