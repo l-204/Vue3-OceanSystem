@@ -61,13 +61,13 @@ export const formConfig = {
       disabled: true,
       hidden: false,
     },
-    {
-      label: "样本图片",
-      component: ImageUploader,
-      value: "picUrl",
-      disabled: false,
-      hidden: false,
-    },
+    // {
+    //   label: "样本图片",
+    //   component: ImageUploader,
+    //   value: "picUrl",
+    //   disabled: false,
+    //   hidden: false,
+    // },
     {
       label: "处理方法",
       component: Input,
